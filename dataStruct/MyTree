@@ -1,0 +1,12 @@
+// this is the tree
+digraph tree {
+	r [label=5]
+	0 [label=0]
+	1 [label=1]
+	2 [label=2]
+	3 [label=3]
+	r -> 0
+	r -> 1
+	1 -> 2
+	1 -> 3
+}

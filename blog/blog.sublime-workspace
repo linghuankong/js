@@ -1,0 +1,367 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"per",
+				"person4"
+			],
+			[
+				"pe",
+				"person3"
+			],
+			[
+				"arr",
+				"arr_new"
+			],
+			[
+				"flexw",
+				"flex-wrap\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/linghuankong/Desktop/no_Mine/theQuestion/str.js",
+			"settings":
+			{
+				"buffer_size": 78,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/linghuankong/Desktop/no_Mine/theQuestion/sentence.js",
+			"settings":
+			{
+				"buffer_size": 265,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/linghuankong/Desktop/no_Mine/theQuestion/objectAndClass.js",
+			"settings":
+			{
+				"buffer_size": 963,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				":f",
+				":$ - EOF"
+			],
+			[
+				":enew",
+				"File: New View into File"
+			],
+			[
+				":new",
+				"Build: New Build System"
+			],
+			[
+				":h help",
+				"HTML: Encode Special Characters"
+			],
+			[
+				":h remov",
+				"Package Control: Remove Channel"
+			],
+			[
+				":q",
+				"SublimeLinter: Quick Action"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"node -v",
+			"console.clear()",
+			"clear()",
+			"print(\"ok\")",
+			"clc",
+			"cl",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/linghuankong/Desktop/no_Mine/theQuestion/objectAndClass.js",
+		"/C/Users/linghuankong/Desktop/no_Mine/theQuestion/objectAndClass",
+		"/C/Users/linghuankong/Desktop/no_Mine/theQuestion/sentence",
+		"/C/Users/linghuankong/Desktop/no_Mine/theQuestion/arr.js",
+		"/C/Users/linghuankong/Desktop/no_Mine/theQuestion/first.js",
+		"/D/00010/sublime/Teachfile/blog/main.html",
+		"/D/00010/sublime/Teachfile/blog/first.css",
+		"/D/00010/sublime/Sublime Text Build 3211 x64/Data/Packages/User/untitled.sublime-build",
+		"/D/00010/sublime/Teachfile/first.html",
+		"/D/00010/sublime/Sublime Text Build 3211 x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/D/00010/sublime/Teachfile/first",
+		"/D/00010/sublime/Sublime Text Build 3211 x64/Data/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"()\n",
+			")\n",
+			"同名时，下替上",
+			"age",
+			"person2",
+			">",
+			"\tul>li*4>a{value$}\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/linghuankong/Desktop/no_Mine/theQuestion/str.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								78,
+								78
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/linghuankong/Desktop/no_Mine/theQuestion/sentence.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 265,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/linghuankong/Desktop/no_Mine/theQuestion/objectAndClass.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								717,
+								717
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 434.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 132.0
+	},
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/javascript.sublime-build",
+	"project": "/D/00010/sublime/Teachfile/blog.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
